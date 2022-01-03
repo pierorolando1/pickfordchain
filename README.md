@@ -1,4 +1,4 @@
-# setup
+# Setup
 Run
 ```bash
 git clone https://github.com/pierorolando1/pickfordchain
